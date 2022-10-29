@@ -1,0 +1,5 @@
+/.gitattributes
+/.github
+/build
+/node_modules
+/package-lock.json
